@@ -11,9 +11,7 @@
 演示地址：[https://muying.gitapp.cn](https://muying.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_muying
 
 
 ## 主要功能
